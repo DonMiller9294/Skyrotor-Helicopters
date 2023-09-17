@@ -1,3 +1,13 @@
+# SkyRotor Helicopter Website
+
+Welcome to the SkyRotor Helicopter website! This readme will guide you through the process of customizing the HTML5 template to create your unique helicopter-themed website.
+
+
+To create your SkyRotor Helicopter website, you'll need to follow these steps:
+
+1. Clone or download the HTML5 template from the template provider's website.
+2. photos where taken from pexel.com
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
