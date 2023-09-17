@@ -7,6 +7,7 @@ To create your SkyRotor Helicopter website, you'll need to follow these steps:
 
 1. Clone or download the HTML5 template from the template provider's website.
 2. photos where taken from pexel.com
+3. I changed the background image, photos for each section, added new paragraphs as well.-(modfications made by Don Miller)
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
